@@ -19,7 +19,7 @@ The business problem that this project aims to address is the need for an automa
 
 ## Conclusions
 
-- The initial CNN model achieved an accuracy of approximately 80%, which can be further improved by increasing the model's depth and optimizing hyperparameters such as the optimizer choice.
+- The initial CNN model achieved an accuracy  of training data approx 88% and validation accuracy of 84%, which can be further improved by increasing the model's depth and optimizing hyperparameters such as the optimizer choice.
 - Class rebalancing techniques such as data augmentation have shown to be effective in improving the model's accuracy.
 - After rectifying class imbalances, there was no evidence of overfitting or underfitting of the model.
 - The development of an automated system for the detection of melanoma using CNN models has the potential to significantly reduce the manual effort and time required for diagnosis, leading to improved patient outcomes.
