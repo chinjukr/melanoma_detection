@@ -19,7 +19,7 @@ The business problem that this project aims to address is the need for an automa
 
 ## Conclusions
 
-@@ -49,4 +49,5 @@ I would like to thank the following resources for their contributions to this pr
+- I would like to thank the following resources for their contributions to this pr
 - I would also like to acknowledge the support and guidance provided by my mentors and peers throughout the duration of this project.
 
 ## Contact
