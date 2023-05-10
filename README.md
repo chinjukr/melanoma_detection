@@ -19,10 +19,33 @@ The business problem that this project aims to address is the need for an automa
 
 ## Conclusions
 
-- I would like to thank the following resources for their contributions to this pr
+- The initial CNN model achieved an accuracy of approximately 80%, which can be further improved by increasing the model's depth and optimizing hyperparameters such as the optimizer choice.
+- Class rebalancing techniques such as data augmentation have shown to be effective in improving the model's accuracy.
+- After rectifying class imbalances, there was no evidence of overfitting or underfitting of the model.
+- The development of an automated system for the detection of melanoma using CNN models has the potential to significantly reduce the manual effort and time required for diagnosis, leading to improved patient outcomes.
+
+## Technologies Used
+
+- Python - version 3.7.11
+- TensorFlow - version 2.6.0
+- Keras - version 2.6.0
+- NumPy - version 1.19.5
+- Pandas - version 1.3.3
+- Matplotlib - version 3.4.3
+- Seaborn - version 0.11.2
+- Scikit-learn - version 1.0
+
+## Acknowledgements
+
+I would like to thank the following resources for their contributions to this project:
+
+- This project was inspired by the need for automated systems to aid in the detection and diagnosis of skin cancers, particularly melanoma.
+- The dataset used in this project was obtained from the International Skin Imaging Collaboration (ISIC) website.
+- The development of the CNN model and its implementation was based on a combination of research papers, online tutorials, and guidance from my mentor.
+- The tutorial from TensorFlow.org provided a helpful starting point for the development of the CNN model used in this project.
 - I would also like to acknowledge the support and guidance provided by my mentors and peers throughout the duration of this project.
+Note: The versions listed here are accurate at the time of writing, but may have changed since then.
 
 ## Contact
-Created by [chinjukr] - feel free to contact me!
 
-Created by chinjukr - feel free to contact me! You can reach me through my GitHub profile [chinjukr].
+Created by Chinjukr  - feel free to contact me! You can reach me through my GitHub profile [chinjukr].
